@@ -1,0 +1,36 @@
+body {
+    width: 600px;
+    /* Largura do elemento */
+    height: 400px;
+    /* Altura do elemento */
+    background-color: black;
+    /* Cor RGB do fundo */
+    box-shadow: 5px 5px 10px rgba(228, 224, 224, 0.2);
+    /* Sombra com deslocamento X, deslocamento Y, desfoque e cor RGBA */
+    margin: 50px auto;
+    /* Centralizar o elemento na página */
+    padding: 20px;
+    /* Espaçamento interno do conteúdo */
+    color: white;
+    /* Cor do texto para melhor legibilidade */
+
+}
+h1{
+    font-family: 'Pixelify Sans', sans-serif;
+  
+
+}
+h1:hover{
+    color: rgb(0, 38, 128);
+}
+a{
+    font-family: 'Rubik', sans-serif;
+    color: white;
+    text-decoration: none;
+
+  
+}
+a:hover{
+    text-decoration: underline;
+    color: green;
+}
