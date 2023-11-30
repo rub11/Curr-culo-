@@ -61,3 +61,22 @@ main {
     margin: auto;
 
 }
+.estudonauta:hover{
+   text-decoration: underline;
+
+}
+.Cruzeiro-do-sul:hover{
+    text-decoration: underline;
+
+}
+footer{
+    color:white;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    padding-top: 20%;
+    
+    
+
+}
+
+

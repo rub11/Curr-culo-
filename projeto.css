@@ -34,3 +34,11 @@ a:hover{
     text-decoration: underline;
     color: green;
 }
+footer{
+    color:white;
+    font-family: 'Raleway', sans-serif;
+ text-align: center;
+display: flex;
+padding-top: 300px;
+
+}
