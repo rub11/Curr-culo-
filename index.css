@@ -28,6 +28,7 @@ h2 {
     color: white;
     text-align: center;
 }
+
 h3 {
     color: white;
     text-align: center;
@@ -56,32 +57,38 @@ main {
 * {
     font-family: Arial, Helvetica, sans-serif;
 }
-.desenvolvedor{
+
+.desenvolvedor {
     text-align: center;
     margin: auto;
 
 }
-.estudonauta:hover{
-   text-decoration: underline;
 
-}
-.Cruzeiro-do-sul:hover{
+.estudonauta:hover {
     text-decoration: underline;
 
 }
-footer{
-    color:white;
+
+.Cruzeiro-do-sul:hover {
+    text-decoration: underline;
+
+}
+
+footer {
+    color: white;
     font-family: 'Raleway', sans-serif;
     text-align: center;
     padding-top: 20%;
-    
-    
+
+
 
 }
-.contato{
-    font-family: 'Love Ya Like A Sister', cursive;cursive;
+
+.contato {
+    font-family: 'Love Ya Like A Sister', cursive;
+    cursive;
 }
-h3{
+
+h3 {
     font-size: 1.4em;
 }
-

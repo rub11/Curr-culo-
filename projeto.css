@@ -15,30 +15,35 @@ body {
     /* Cor do texto para melhor legibilidade */
 
 }
-h1{
+
+h1 {
     font-family: 'Pixelify Sans', sans-serif;
-  
+
 
 }
-h1:hover{
+
+h1:hover {
     color: rgb(0, 38, 128);
 }
-a{
+
+a {
     font-family: 'Rubik', sans-serif;
     color: white;
     text-decoration: none;
 
-  
+
 }
-a:hover{
+
+a:hover {
     text-decoration: underline;
     color: green;
 }
-footer{
-    color:white;
+
+footer {
+    color: white;
     font-family: 'Raleway', sans-serif;
- text-align: center;
-display: flex;
-padding-top: 300px;
+    text-align: center;
+    display: flex;
+    padding-top: 300px;
 
 }
