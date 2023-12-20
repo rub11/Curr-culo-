@@ -46,4 +46,9 @@ footer {
     display: flex;
     padding-top: 300px;
 
+
 }
+ .voltar{
+ font-size: 2em;
+ text-align: center;
+ }
