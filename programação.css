@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+  
+
+}
+a{
+    color: white;
+   
+
+}
+div, p, a {
+   text-align: center;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
